@@ -12,7 +12,7 @@ This is the coding assessment assignment for Marmeto.
    - Alternatively, download the code as a ZIP file and extract it.
   
 2. **Navigate to Project Directory:**
-3. Run the index.html file.
+3. **Run the index.html file**.
 
 ## Live working link for this project: 
 
