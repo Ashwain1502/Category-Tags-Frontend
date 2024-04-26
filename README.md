@@ -7,7 +7,7 @@ This is the coding assessment assignment for Marmeto.
 1. **Clone or Download:**
    - If using Git, clone the repository using the following command:
      ```
-     git clone https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code.git
+     git clone https://github.com/Ashwain1502/Category-Tags-Frontend.git
      ```
    - Alternatively, download the code as a ZIP file and extract it.
   
