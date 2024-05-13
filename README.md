@@ -1,6 +1,6 @@
 # Category-Tags-Frontend
 
-This is the coding assessment assignment for Marmeto.
+A Frontend design for showing items online fetched from api using HTML, CSS, and Javascript.
 
 ## Steps to run the code: 
 
