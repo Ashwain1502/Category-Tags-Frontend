@@ -1,9 +1,7 @@
 # Category-Tags-Frontend
-
-A Frontend design for showing items online fetched from api using HTML, CSS, and Javascript.
+A Frontend design for showing items online fetched from API using HTML, CSS, and Javascript.
 
 ## Steps to run the code: 
-
 1. **Clone or Download:**
    - If using Git, clone the repository using the following command:
      ```
@@ -15,6 +13,7 @@ A Frontend design for showing items online fetched from api using HTML, CSS, and
 3. **Run the index.html file**.
 
 ## Live working link for this project: 
-
 [Category-Tags Frontend](https://category-frontend.netlify.app/).
 
+> ## Contributors
+> Ashwani Kumar (ashwink1502@gmail.com).
