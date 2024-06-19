@@ -1,5 +1,5 @@
 # Category-Tags-Frontend
-A Frontend design for showing items online fetched from API using HTML, CSS, and Javascript.
+A front-end design for showing items online fetched from API using HTML, CSS, and Javascript.
 
 ## Steps to run the code: 
 1. **Clone or Download:**
